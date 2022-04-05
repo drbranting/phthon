@@ -1,3 +1,4 @@
+print ("Hello World")
 x = int(5)   # x will be 5
 
 a = input("A: ")
